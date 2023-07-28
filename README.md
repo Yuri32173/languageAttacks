@@ -10,7 +10,6 @@ This is the official repository for "[Universal and Transferable Adversarial Att
 - [Installation](#installation)
 - [Models](#models)
 - [Usage](#usage)
-- [License](#license)
 
 ## Installation
 
